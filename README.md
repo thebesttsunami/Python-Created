@@ -11,6 +11,6 @@ $ pip install faker
 $ pip install hashlib
 
 # Support
-> termux
+termux
  <br>
-> Kali Linux
+ Kali Linux
